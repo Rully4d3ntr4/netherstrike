@@ -1,3 +1,10 @@
 [submodule "omegahanggara/kernel-tunner"]
 	path = omegahanggara/kernel-tunner
 	url = git@github.com:omegahanggara/kernel-tuner.git
+
+[submodule "omegahanggara/kernel-upgrader"]
+	path = omegahanggara/kernel-upgrader
+	url = git@github.com:omegahanggara/kernel-upgrader.git
+[submodule "omegahanggara/squid-lusca-installer"]
+	path = omegahanggara/squid-lusca-installer
+	url = git@github.com:omegahanggara/squid-lusca-installer.git
